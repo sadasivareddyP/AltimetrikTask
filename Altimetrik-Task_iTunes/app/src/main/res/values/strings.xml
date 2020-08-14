@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">iTunes Search</string>
+    <string name="app_name_short">Search</string>
+
+    <string name="search_hint">Search title, Artistname  or Trackname  </string>
+
+    <string name="last_visit">Your last search was:</string>
+    <string name="required">Required!</string>
+    <string name="no_network_available">No Network Available</string>
+    <string name="no_search_result">Sorry, No Search Result.\n\nTry searching again.</string>
+
+
+
+    <string-array name="filter_options">
+        <item>Release Data</item>
+        <item>Track Name</item>
+        <item>Artist Name</item>
+        <item>Collection Price</item>
+    </string-array>
+</resources>
